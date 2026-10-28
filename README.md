@@ -1,3 +1,4 @@
 # apnacollege-demo
-This is mu first Repository.
+This is my first Repository.
+<br>
 Author - Akshay Hadoltikar
